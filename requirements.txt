@@ -1,5 +1,6 @@
 streamlit
 soundfile
+sounddevice
 librosa
 numpy
 matplotlib
